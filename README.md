@@ -1,5 +1,6 @@
 # CTPlot
-[![License: GPL v2](https://img.shields.io/badge/license-MIT-blue)](https://github.com/ctpeterson/SwissFit?tab=MIT-1-ov-file)
+[![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)](https://www.python.org)
+[![License: GPL v2](https://img.shields.io/badge/license-MIT-blue)](https://github.com/ctpeterson/CTPlot/blob/main/LICENSE)
 
 `CTPlot` is my own personal toolkit for visualizing data in Python. To install, clone this repository, `cd` into `CTPlot`, and run
 ```
